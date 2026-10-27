@@ -4,7 +4,7 @@
 
 Backend developer, currently studying in the development track at School 21. I plan to transition to a Java-based backend stack.
 ---
-![Баннер](./assets/banner.gif)
+![Баннер](./giphy.gif)
 
 ## 🛠️ My Stack
 
